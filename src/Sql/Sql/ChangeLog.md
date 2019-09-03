@@ -21,7 +21,7 @@
 
 ## Version 1.14.1
 * Update documentation of old Auditing cmdlets.
-* Added vCore example to create an elastic pool. 
+* Added vCore example to create an elastic pool.  
 
 ## Version 1.14.0
 * Add Azure Sql Instance pools cmdlets
